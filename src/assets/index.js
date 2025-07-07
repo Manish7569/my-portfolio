@@ -14,7 +14,7 @@ import seatbelt from "./seatbelt.png";
 
 // company
 import cyient from "./company/cyient.webp";
-import PepsiCo from "./company/PepsiCo.svg";
+import PepsiCo from "./company/pepsico.svg";
 
 // tech
 import python from "./tech/python.png";
