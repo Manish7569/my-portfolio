@@ -8,7 +8,7 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import ucmFitness from "./ucm_fitness.jpg";
 import captiongenerator from "./captiongenerator.png";
-import interviewchatbot from "./interviewchatbot.png";
+import interviewchatbot from "./InterviewChatbot.png";
 import e_collegemngmt from "./e_collegemngmt.png";
 import seatbelt from "./seatbelt.png";
 
