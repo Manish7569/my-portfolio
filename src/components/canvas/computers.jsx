@@ -2,7 +2,7 @@ import React, { useEffect, useState, Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
 import CanvasLoader from "../Loader";
-import ComputersCanvas from "./Computers";
+
 
 // Preload the model for smoother experience
 useGLTF.preload("/desktop_pc/scene.glb");
